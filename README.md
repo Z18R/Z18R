@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Joezer Cardoza E.
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently mastering Html/Css/Java, bootstrap, Wordpress, Sql, php, reactJs,
+- 🌱 I’m currently mastering Html/Css/Java, bootstrap, Wordpress, Sql, php, reactJs, c#, vb.NET, MVC core, python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me gray78181878@gmail.com
 
